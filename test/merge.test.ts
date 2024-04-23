@@ -12,3 +12,4 @@ describe("Merge Function", () => {
     });
 });
 
+/// ทดสอบโดย npx mocha --require ts-node/register test/*.test.ts ใน terminal
